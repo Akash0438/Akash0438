@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 
 <h3 align="center"><em>It is not The Strongest of the Species that Survives, Nor The Most Intelligent that Survives. It is the ONE that is the Most Adaptable to Change - Charles Darwin.</em></h3>
 
-<p>This is what I have learned  and follwed over the year. I am Re-learning Data Science. I use Python for Data Science & Analysis. I love Analysis part the most. Its Fun & Challenging, well works pretty good for me, as I love challenges in my day to day job. It keeps me on the edge. More the challenge, more the learnings.  </p>
+<p>This is what I have learned  and follwed over the year. I am learning Data Science. I use Python for Data Science & Analysis. I love Analysis part the most. Its Fun & Challenging, well works pretty good for me, as I love challenges in my day to day job. It keeps me on the edge. More the challenge, more the learnings.  </p>
 
 <hr>
 <h3>🚀 Know Me 👇</h3>
 <ul>
-<li>👨‍💻 I'm a <em> Relearning </em> <strong>Data Science</strong>.</li>
+<li>👨‍💻 I'm a <em> learning </em> <strong>Data Science</strong>.</li>
 
 <li>👨‍🎓 Life - long learner. Learning is a continuous process. I like to learn and contribute to the community, by sharing my Knowledge. <strong>Knowledge Is Power</strong>.</li>
 </li>
